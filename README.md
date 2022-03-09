@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakkanoodles
-- 👀 I’m interested in javascript learning for ux design purpose
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ux design basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
