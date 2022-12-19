@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hakkanoodles
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Rohit
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning Js and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
