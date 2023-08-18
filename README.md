@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 - 👋 Hi, I’m Rohit
-- 👀 I’m a Front-end Development
+- 👀 I’m a Front-end Developer
 - 🌱 I’m currently working on react and learning backend
 
 ## 🔗 📫 How to reach me ...
