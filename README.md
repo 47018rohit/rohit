@@ -27,3 +27,7 @@ I’m interested in:
 ---
 
 > If you remix something I build, I’d love to see what you make.
+> 
+> A collection of small, weird, and useful experiments for the open web.
+Steal anything. Break everything. Learn something.
+
