@@ -1,22 +1,21 @@
 # Hi, I'm Rohit 👋
 
-I build interactive web experiences that feel alive — not just functional.
+I like building things for the web that move, react, and sometimes misbehave — in a good way.
 
 I’m interested in:
 - Creative frontend engineering (React, Canvas, Motion, UI systems)
-- Designing code that’s easy to understand, extend, and remix
-- The open web and tools for creators
+- Open, hackable tools for designers and developers
+- Turning small ideas into systems people can remix
 
-### What I’m working on
-- Cursor-based masking and reveal systems
-- Organic particle effects (dust, fire, motion trails)
-- A modular creative-dev portfolio built with Vite + React
+### Currently experimenting with
+- Cursor-based masking & reveal effects
+- Organic particles (dust, fire, motion trails)
+- A modular creative-dev playground built with Vite + React
 
-### How I think
-I care about:
-- Accessibility and performance as creative constraints
-- Systems over demos
-- Code that teaches, not just runs
+### How I build
+- I treat performance and accessibility as creative constraints
+- I design code to be explored, not just executed
+- I prefer systems over demos
 
 ---
 
@@ -24,3 +23,7 @@ I care about:
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-prakash-7a07491a0)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_waasp_)
+
+---
+
+> If you remix something I build, I’d love to see what you make.
